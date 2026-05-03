@@ -15,10 +15,6 @@ a calculator proyect
 
 **A command-line calculator with 17+ operations, built in modern C++.**
 
-[![C++17](https://img.shields.io/badge/C%2B%2B-17-blue?style=flat-square&logo=cplusplus)](https://en.cppreference.com/w/cpp/17)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey?style=flat-square)]()
-[![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)]()
 
 </div>
 
