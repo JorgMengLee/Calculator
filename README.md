@@ -204,13 +204,3 @@ The calculator never crashes on bad input — it always shows a helpful message 
 | Unknown command                    | Suggests typing `help`                    |
 
 ---
-
-## License
-
-Distributed under the **MIT License**. See [LICENSE](LICENSE) for details.
-
----
-
-<div align="center">
-  Made with C++ and ☕
-</div>
